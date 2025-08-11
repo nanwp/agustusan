@@ -318,7 +318,7 @@ export default function Home() {
               </div>
 
               <div className="flex flex-col sm:flex-row gap-4 justify-center items-center animate-slide-up" style={{ animationDelay: '1s' }}>
-                <a href="https://wa.me/6281234567890?text=Halo,%20saya%20tertarik%20menjadi%20sponsor%20acara%2017%20Agustus"
+                <a href="https://wa.me/6282114410192?text=Halo,%20saya%20tertarik%20menjadi%20sponsor%20acara%2017%20Agustus"
                   className="bg-green-500 hover:bg-green-600 text-white px-8 py-3 rounded-full font-bold transition-all duration-300 transform hover:scale-110 shadow-lg flex items-center gap-2 animate-bounce">
                   <span>📱</span>
                   Hubungi via WhatsApp
