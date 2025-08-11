@@ -107,14 +107,6 @@ export default function Home() {
                 </div>
               </div>
             </div>
-
-            <div className="bg-white/10 rounded p-4 mb-4">
-              <div className="flex items-center space-x-4">
-                <div className="w-16 h-16 bg-gray-300 rounded"></div>
-                <div className="w-16 h-16 bg-gray-300 rounded"></div>
-                <div className="w-16 h-16 bg-gray-300 rounded"></div>
-              </div>
-            </div>
             <div className="space-y-2 text-sm">
               <div className="flex items-center hover:translate-x-2 transition-transform duration-200">
                 <span className="text-pink-300 mr-2 animate-bounce">📅</span>
@@ -133,7 +125,7 @@ export default function Home() {
 
           {/* Pentas Seni & Panggung Hiburan */}
           <div className="bg-teal-600 rounded-lg p-6 shadow-lg transform hover:scale-105 hover:shadow-xl transition-all duration-300 animate-slide-up" style={{ animationDelay: '0.2s' }}>
-            <h3 className="text-xl font-bold mb-4 text-yellow-300 animate-pulse">Pentas Seni & Panggung Hiburan</h3>
+            <h3 className="text-xl font-bold mb-4 text-yellow-300 animate-pulse">Pentas Seni Hiburan Rakyat</h3>
 
             {/* Countdown Timer */}
             <div className="bg-purple-400 text-white rounded-lg p-4 mb-4 text-center">
@@ -158,13 +150,6 @@ export default function Home() {
               </div>
             </div>
 
-            <div className="bg-white/10 rounded p-4 mb-4">
-              <div className="flex items-center space-x-4">
-                <div className="w-16 h-16 bg-gray-300 rounded"></div>
-                <div className="w-16 h-16 bg-gray-300 rounded"></div>
-                <div className="w-16 h-16 bg-gray-300 rounded"></div>
-              </div>
-            </div>
             <div className="space-y-2 text-sm">
               <div className="flex items-center hover:translate-x-2 transition-transform duration-200">
                 <span className="text-pink-300 mr-2 animate-bounce">📅</span>
@@ -285,7 +270,7 @@ export default function Home() {
                 <div className="bg-white p-6 rounded-xl border-2 border-red-400 shadow-lg transform hover:scale-105 hover:shadow-xl transition-all duration-300 animate-slide-up" style={{ animationDelay: '0.2s' }}>
                   <div className="text-4xl mb-3 animate-bounce">🥇</div>
                   <h3 className="text-xl font-bold text-red-900 mb-2">Sponsor Utama</h3>
-                  <p className="text-gray-800 text-sm mb-4 font-medium">Logo besar di semua materi promosi</p>
+                  <p className="text-gray-800 text-sm mb-4 font-medium">Logo besar di panggung dan media sosial serta di sebut terus menerus</p>
                   <div className="bg-red-600 text-white px-3 py-1 rounded-full text-sm font-bold animate-pulse">
                     Slot Terbatas
                   </div>
