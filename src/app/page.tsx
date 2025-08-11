@@ -52,8 +52,8 @@ export default function Home() {
         {/* Header with logo */}
         <div className="text-center mb-8 animate-fade-in">
           <div className="flex items-center justify-center gap-6 mb-4">
-            <Image src="/images/logo-katar.png" alt="Logo Karang Taruna" className="w-20 h-20 animate-bounce" width={20} height={20} />
-            <Image src="/images/logo-80.png" alt="Logo HUT RI 80" className="w-60 h-20 animate-bounce" style={{ animationDelay: '0.5s' }} width={60} height={20} />
+            <Image src="/images/logo-katar.png" alt="Logo Karang Taruna" className="w-20 h-20 animate-bounce" width={200} height={200} />
+            <Image src="/images/logo-80.png" alt="Logo HUT RI 80" className="w-60 h-40 animate-bounce" style={{ animationDelay: '0.5s' }} width={200} height={200} />
           </div>
           <div className="space-y-1 animate-pulse">
             <p className="text-sm md:text-base font-medium text-yellow-200">Merdeka Bersama</p>
